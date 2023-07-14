@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Andrew525/testing-java-junit5/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Andrew525/testing-java-junit5/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Andrew525/testing-java-junit5-ci/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Andrew525/testing-java-junit5-ci/tree/master)
 # Introduction to JUnit 5 with Maven - CI Example
 
 All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)

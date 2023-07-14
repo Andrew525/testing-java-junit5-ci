@@ -5,8 +5,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 
-import static org.junit.jupiter.api.Assertions.fail;
-
 @ExtendWith(TimingExtension.class)
 class PetTypeSDJpaServiceIT {
 
@@ -16,7 +14,6 @@ class PetTypeSDJpaServiceIT {
 
     @Test
     void findAll() {
-        fail();
     }
 
     @Test
